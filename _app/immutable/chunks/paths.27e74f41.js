@@ -1,0 +1,1 @@
+var s;const o=((s=globalThis.__sveltekit_a6eogp)==null?void 0:s.base)??"/MIT_FP2-Proof-of-Concept_Greater-Boston-Viz";var e;const a=((e=globalThis.__sveltekit_a6eogp)==null?void 0:e.assets)??o;export{a,o as b};
